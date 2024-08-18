@@ -42,3 +42,6 @@ pip3 install online-judge-tools online-judge-template-generator selenium
 - fetch : oj-prepare [url]
 - test: oj test -c 'python main.py' -t 2
 - submit: oj submit main.py -l 5055 -y
+- excute C++
+  - `g++ -o main main.cpp`
+  - `./main`
